@@ -13,7 +13,7 @@ public class User {
         this.fName = fName;
         this.age = age;
     }
-
+// getter set the field in firestore document
     public String getName() {
         return name;
     }
